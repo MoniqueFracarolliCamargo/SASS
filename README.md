@@ -20,7 +20,7 @@
 
 - HTML5
 - CSS3 
-- Sass (at-rules - mixins, funçoes e iterações (como while e o for each) e condicionais)
+- SCSS / Sass (at-rules - mixins, funçoes e iterações (como while e o for each) e condicionais)
 
 ## :star2: Confira o site 
 
